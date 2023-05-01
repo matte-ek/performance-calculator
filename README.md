@@ -3,7 +3,7 @@ Super simple CLI to use [MaxOhn](https://github.com/MaxOhn)'s [rosu-pp](https://
 
 ## Usage
 
-Applcation already expects map files to be located at `cache/<map-id>.osu`
+Application already expects map files to be located at `cache/<map-id>.osu`
 
 ```
 > performance-calculator.exe <map id>
